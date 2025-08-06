@@ -8,6 +8,6 @@
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="library" name="KotlinJavaRuntime" level="project" />
-    <orderEntry type="library" name="github.vlsi.mxgraph.jgraphx" level="project" />
+    <orderEntry type="library" name="https://github.com/byDanielDR" level="project" />
   </component>
 </module>
